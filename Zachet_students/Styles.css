@@ -1,0 +1,52 @@
+﻿body {
+    background-color: #F7F7F7;
+}
+h1 {
+    margin: 0px;
+    padding: 2px 0;
+    font-size: 30px;
+    font-weight: bold;
+    color:blue
+}
+a{
+    color:blue;
+    font-size:20px;
+    padding-right:20px;
+    text-decoration:none;
+    padding-bottom:0px;
+    
+}
+.main {
+    
+}
+.task{
+    max-width:500px;
+}
+#temo_footer{
+    width:100%;
+    height:50%;
+    background-color:white;
+}
+.footer_menu {
+}
+
+#form1 label {
+    width: 120px;
+    display: inline-block;
+}
+
+#form1 input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 150px;
+}
+
+#form1 select {
+    margin: 2px 0;
+    width: 154px;
+}
+
+button[type=submit] {
+    margin-top: 15px;
+    padding: 5px;
+}
